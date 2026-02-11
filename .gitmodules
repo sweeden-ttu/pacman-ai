@@ -1,0 +1,6 @@
+[submodule "working repositories/fall-2025"]
+	path = working repositories/fall-2025
+	url = https://github.com/sweeden-ttu/fall-2025.git
+[submodule "working repositories/spring-2026"]
+	path = working repositories/spring-2026
+	url = https://github.com/sweeden-ttu/spring-2026.git
